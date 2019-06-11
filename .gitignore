@@ -1,37 +1,37 @@
 *.class
-#package file
-*.war
-*.ear
+         #package file
+         *.war
+         *.ear
 
-#kdiff3 ignore
-*.orig
+         #kdiff3 ignore
+         *.orig
 
-#maven ignore
-target/
+         #maven ignore
+         target/
 
-#ecalipse ignore
-.settings/
-.project
-.classpatch
+         #ecalipse ignore
+         .settings/
+         .project
+         .classpatch
 
-#idea
-.idea/
-/idea/
-*.ipr
-*.iml
-*.iws
+         #idea
+         .idea/
+         /idea/
+         *.ipr
+         *.iml
+         *.iws
 
 
-#temp file零时文件
+         #temp file零时文件
 
-*.log
-*.cache
-*.diff
-*.patch
-*.tmp
+         *.log
+         *.cache
+         *.diff
+         *.patch
+         *.tmp
 
-#system ignore
-.DS_Store
-Thumbs.db
+         #system ignore
+         .DS_Store
+         Thumbs.db
 
 
